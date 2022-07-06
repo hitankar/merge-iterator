@@ -1,0 +1,16 @@
+{
+  "name": "experiment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "ex": "ts-node"
+  },
+  "devDependencies": {
+    "@types/node": "16.11.43"
+  }
+}
